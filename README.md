@@ -72,14 +72,10 @@ A curated list of awesome AI developments for ophthalmology
 * **Summary:** The DRIVE database has been established to enable comparative studies on segmentation of blood vessels in retinal images
 * **Labels:** For the training images, a single manual segmentation of the vasculature is available
 * **Scale:** 	40 retinal fundus images (20 labelled for training and 20 unlabelled for Grand Challenge evaluation)
-
-
 #### [Digital Retinal Images for Vessel Extraction](https://drive.grand-challenge.org/) 
 * **Summary:** The DRIVE database has been established to enable comparative studies on segmentation of blood vessels in retinal images
 * **Labels:** For the training images, a single manual segmentation of the vasculature is available
 * **Scale:** 	40 retinal fundus images (20 labelled for training and 20 unlabelled for Grand Challenge evaluation)
-
-
 #### [Digital Retinal Images for Vessel Extraction](https://drive.grand-challenge.org/) 
 * **Summary:** The DRIVE database has been established to enable comparative studies on segmentation of blood vessels in retinal images
 * **Labels:** For the training images, a single manual segmentation of the vasculature is available
