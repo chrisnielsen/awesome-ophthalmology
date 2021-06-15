@@ -8,8 +8,13 @@ A curated list of awesome AI developments for ophthalmology
 
 <!-- MarkdownTOC depth=4 -->
 
+<<<<<<< HEAD
 -  [Datasets](#datasets)
       -  [Diabetic Retinopathy Detection](#diabetic-retinopathy-detection)
+=======
+- [Datasets](#datasets)
+      - [Diabetic Retinopathy Detection](#diabetic-retinopathy-detection)
+>>>>>>> cf4acf0a99b0bb6d31b418e12a08191facf953f9
 
 <!-- /MarkdownTOC -->
 
