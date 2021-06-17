@@ -12,8 +12,8 @@ A curated list of awesome AI developments for ophthalmology
 -  [Datasets](#datasets)
       -  [Diabetic Retinopathy Classification](#diabetic-retinopathy-classification)
       -  [Glaucoma Classification ](#glaucoma-classification)
-      -  [Retinal Vessel Segmentation](#retinal-vessel-segmentation)
       -  [Retinal Image Registration](#retinal-image-registration)
+      -  [Retinal Vessel Segmentation](#retinal-vessel-segmentation)
 
 <!-- /MarkdownTOC -->
 
@@ -66,6 +66,13 @@ A curated list of awesome AI developments for ophthalmology
 
 
 
+<a name="retinal-image-registration"></a>
+### Retinal Image Registration
+#### [FIRE (Fundus Image Registration Dataset)](https://projects.ics.forth.gr/cvrl/fire/) 
+* **Summary:** FIRE is a dataset for retinal image registration, annotated with ground truth data
+* **Labels:** For each pair of images, ground truth registration control points are provided
+* **Scale:** 	The dataset consists of 134 labelled fundus image pairs
+<br/><br/>
 
 
 
@@ -120,13 +127,6 @@ A curated list of awesome AI developments for ophthalmology
 <br/><br/>
 
 
-<a name="retinal-image-registration"></a>
-### Retinal Image Registration
-#### [FIRE (Fundus Image Registration Dataset)](https://projects.ics.forth.gr/cvrl/fire/) 
-* **Summary:** FIRE is a dataset for retinal image registration, annotated with ground truth data
-* **Labels:** For each pair of images, ground truth registration control points are provided
-* **Scale:** 	The dataset consists of 134 labelled fundus image pairs
-<br/><br/>
 
 
 
