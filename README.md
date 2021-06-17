@@ -49,7 +49,7 @@ A curated list of awesome AI developments for ophthalmology
 
 
 
-
+--- 
 <a name="glaucoma-classification"></a>
 ### Glaucoma Classification
 --- 
@@ -67,7 +67,7 @@ A curated list of awesome AI developments for ophthalmology
 <br/><br/>
 
 
-
+--- 
 <a name="retinal-image-registration"></a>
 ### Retinal Image Registration
 ---
@@ -79,7 +79,7 @@ A curated list of awesome AI developments for ophthalmology
 
 
 
-
+--- 
 <a name="retinal-vessel-segmentation"></a>
 ### Retinal Vessel Segmentation
 ---
@@ -130,6 +130,7 @@ A curated list of awesome AI developments for ophthalmology
 * **Scale:** 40 labelled retinal fundus images
 <br/><br/>
 
+--- 
 
 
 
