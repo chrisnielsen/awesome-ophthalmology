@@ -13,7 +13,7 @@ A curated list of awesome AI developments for ophthalmology
       -  [Diabetic Retinopathy Classification](#diabetic-retinopathy-classification)
       -  [Glaucoma Classification ](#glaucoma-classification)
       -  [Retinal Vessel Segmentation](#retinal-vessel-segmentation)
-      -  [Retinal Image Registration][#retinal-image-registration]
+      -  [Retinal Image Registration](#retinal-image-registration)
 
 <!-- /MarkdownTOC -->
 
