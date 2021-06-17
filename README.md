@@ -10,10 +10,12 @@ A curated list of awesome AI developments for ophthalmology
 
 
 -  [Datasets](#datasets)
-      -  [Diabetic Retinopathy Classification](#diabetic-retinopathy-classification)
-      -  [Glaucoma Classification ](#glaucoma-classification)
-      -  [Retinal Image Registration](#retinal-image-registration)
-      -  [Retinal Vessel Segmentation](#retinal-vessel-segmentation)
+      -  [Diabetic Retinopathy Classification](#datasets-diabetic-retinopathy-classification)
+      -  [Glaucoma Classification ](#datasets-glaucoma-classification)
+      -  [Retinal Image Registration](#datasets-retinal-image-registration)
+      -  [Retinal Vessel Segmentation](#datasets-retinal-vessel-segmentation)
+-  [Papers](#papers)
+      -  [Retinal Vessel Segmentation](#papers-retinal-vessel-segmentation)
 
 <!-- /MarkdownTOC -->
 
@@ -24,7 +26,7 @@ A curated list of awesome AI developments for ophthalmology
 ## Datasets
 
 --- 
-<a name="diabetic-retinopathy-classification"></a>
+<a name="datasets-diabetic-retinopathy-classification"></a>
 ### Diabetic Retinopathy Classification
 ---
 #### [Kaggle EyePACS](https://www.kaggle.com/c/diabetic-retinopathy-detection/) 
@@ -51,7 +53,7 @@ A curated list of awesome AI developments for ophthalmology
 
 
 --- 
-<a name="glaucoma-classification"></a>
+<a name="datasets-glaucoma-classification"></a>
 ### Glaucoma Classification
 --- 
 #### [REFUGE Challenge (Retinal Fundus Glaucoma Challenge)](https://refuge.grand-challenge.org/REFUGE2Details/) 
@@ -69,7 +71,7 @@ A curated list of awesome AI developments for ophthalmology
 
 
 --- 
-<a name="retinal-image-registration"></a>
+<a name="datasets-retinal-image-registration"></a>
 ### Retinal Image Registration
 ---
 #### [FIRE (Fundus Image Registration Dataset)](https://projects.ics.forth.gr/cvrl/fire/) 
@@ -81,7 +83,7 @@ A curated list of awesome AI developments for ophthalmology
 
 
 --- 
-<a name="retinal-vessel-segmentation"></a>
+<a name="datasets-retinal-vessel-segmentation"></a>
 ### Retinal Vessel Segmentation
 ---
 #### [ORVS (Online Retinal image for Vessel Segmentation)](https://github.com/AbdullahSarhan/ICPRVessels/tree/main/Vessels-Datasets/ORVS) 
@@ -134,5 +136,16 @@ A curated list of awesome AI developments for ophthalmology
 
 
 
+<a name="papers"></a>
+## Papers
+
+--- 
+<a name="papers-retinal-vessel-segmentation"></a>
+### Retinal Vessel Segmentation
+---
+* RV-GAN: Segmenting Retinal Vascular Structure in Fundus Photographs using a Novel Multi-scale Generative Adversarial Network [(paper)](https://arxiv.org/pdf/2101.00535v2.pdf) [(code)](https://github.com/SharifAmit/RVGAN) 
+* RV-GAN: Segmenting Retinal Vascular Structure in Fundus Photographs using a Novel Multi-scale Generative Adversarial Network [(paper)](https://arxiv.org/pdf/2101.00535v2.pdf) [(code)](https://github.com/SharifAmit/RVGAN) 
+* RV-GAN: Segmenting Retinal Vascular Structure in Fundus Photographs using a Novel Multi-scale Generative Adversarial Network [(paper)](https://arxiv.org/pdf/2101.00535v2.pdf) [(code)](https://github.com/SharifAmit/RVGAN) 
+* RV-GAN: Segmenting Retinal Vascular Structure in Fundus Photographs using a Novel Multi-scale Generative Adversarial Network [(paper)](https://arxiv.org/pdf/2101.00535v2.pdf) [(code)](https://github.com/SharifAmit/RVGAN) 
 
 
