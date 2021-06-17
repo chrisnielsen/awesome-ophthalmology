@@ -23,6 +23,7 @@ A curated list of awesome AI developments for ophthalmology
 <a name="datasets"></a>
 ## Datasets
 
+--- 
 <a name="diabetic-retinopathy-classification"></a>
 ### Diabetic Retinopathy Classification
 ---
@@ -130,7 +131,7 @@ A curated list of awesome AI developments for ophthalmology
 * **Scale:** 40 labelled retinal fundus images
 <br/><br/>
 
---- 
+
 
 
 
