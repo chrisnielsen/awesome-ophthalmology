@@ -25,6 +25,7 @@ A curated list of awesome AI developments for ophthalmology
 
 <a name="diabetic-retinopathy-classification"></a>
 ### Diabetic Retinopathy Classification
+---
 #### [Kaggle EyePACS](https://www.kaggle.com/c/diabetic-retinopathy-detection/) 
 * **Summary:** Large set of high-resolution retina images taken under a variety of imaging conditions. A left and right field is provided for every subject. Images are labeled with a subject id as well as either left or right
 * **Labels:** A clinician has rated the presence of diabetic retinopathy in each image on a scale of 0 to 4
@@ -50,7 +51,8 @@ A curated list of awesome AI developments for ophthalmology
 
 
 <a name="glaucoma-classification"></a>
-### Glaucoma Classification 
+### Glaucoma Classification
+--- 
 #### [REFUGE Challenge (Retinal Fundus Glaucoma Challenge)](https://refuge.grand-challenge.org/REFUGE2Details/) 
 * **Summary:** REFUGE Challenge consists of THREE Tasks: 1) Classification of clinical Glaucoma, 2) Segmentation of Optic Disc and Cup, 3) Localization of Fovea (macular center)
 * **Labels:** A clinician has labelled the presence of glaucoma, the location of the fovea, and the segmentation mask for the optic disk and cup
@@ -68,6 +70,7 @@ A curated list of awesome AI developments for ophthalmology
 
 <a name="retinal-image-registration"></a>
 ### Retinal Image Registration
+---
 #### [FIRE (Fundus Image Registration Dataset)](https://projects.ics.forth.gr/cvrl/fire/) 
 * **Summary:** FIRE is a dataset for retinal image registration, annotated with ground truth data
 * **Labels:** For each pair of images, ground truth registration control points are provided
@@ -79,6 +82,7 @@ A curated list of awesome AI developments for ophthalmology
 
 <a name="retinal-vessel-segmentation"></a>
 ### Retinal Vessel Segmentation
+---
 #### [ORVS (Online Retinal image for Vessel Segmentation)](https://github.com/AbdullahSarhan/ICPRVessels/tree/main/Vessels-Datasets/ORVS) 
 * **Summary:** The ORVS dataset is a dataset for retinal vessel segmentation
 * **Labels:** For the training images, a single manual segmentation of the vasculature is available
