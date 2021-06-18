@@ -156,5 +156,5 @@ A curated list of awesome AI developments for ophthalmology
 * An Elastic Interaction-Based Loss Function for Medical Image Segmentation (Lan et al.) [(paper)](https://arxiv.org/pdf/2007.02663v2.pdf) [(code)](https://github.com/charrywhite/elastic_interaction_based_loss) 
 * The Little W-Net That Could: State-of-the-Art Retinal Vessel Segmentation with Minimalistic Models (Galdran et al.) [(paper)](https://arxiv.org/pdf/2009.01907v1.pdf) [(code)](https://github.com/agaldran/lwnet) 
 * Retinal vessel segmentation based on Fully Convolutional Neural Networks (Oliveira et al.) [(paper)](https://arxiv.org/pdf/1812.07110v2.pdf) [(code)](https://github.com/americofmoliveira/VesselSegmentation_ESWA) 
-* Retinal vessel segmentation based on Fully Convolutional Neural Networks (Liu)[(paper)](https://arxiv.org/pdf/1911.09915v1.pdf) [(code)](https://github.com/zhengyuan-liu/Retinal-Vessel-Segmentation) 
+* Retinal vessel segmentation based on Fully Convolutional Neural Networks (Liu) [(paper)](https://arxiv.org/pdf/1911.09915v1.pdf) [(code)](https://github.com/zhengyuan-liu/Retinal-Vessel-Segmentation) 
 
