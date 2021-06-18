@@ -143,33 +143,18 @@ A curated list of awesome AI developments for ophthalmology
 <a name="papers-retinal-vessel-segmentation"></a>
 ### Retinal Vessel Segmentation
 ---
-* RV-GAN: Segmenting Retinal Vascular Structure in Fundus Photographs using a Novel Multi-scale Generative Adversarial Network [(paper)](https://arxiv.org/pdf/2101.00535v2.pdf) [(code)](https://github.com/SharifAmit/RVGAN) 
-
-* Learning to Address Intra-segment Misclassification in Retinal Imaging [(paper)](https://arxiv.org/pdf/2104.12138v1.pdf) [(code)](https://github.com/rmaphoh/Learning_AVSegmentation) 
-
-* The Unreasonable Effectiveness of Encoder-Decoder Networks for Retinal Vessel Segmentation [(paper)](https://arxiv.org/pdf/2011.12643v1.pdf) [(code)](https://github.com/browatbn2/VLight) 
-
-* Deep iterative vessel segmentation in OCT angiography [(paper)](https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-11-5-2490&id=429951) [(code)](https://github.com/RViMLab/BOE2020-OCTA-vessel-segmentation) 
-
-* Channel Attention Residual U-Net for Retinal Vessel Segmentation [(paper)](https://arxiv.org/ftp/arxiv/papers/2004/2004.03702.pdf) [(code)](https://github.com/clguo/CAR-UNet) 
-
-* Dense Residual Network for Retinal Vessel Segmentation [(paper)](https://arxiv.org/ftp/arxiv/papers/2004/2004.03697.pdf) [(code)](https://github.com/clguo/DRNet_Keras) 
-
-* Exploring The Limits Of Data Augmentation For Retinal Vessel Segmentation [(paper)](https://arxiv.org/pdf/2105.09365v2.pdf) [(code)](https://github.com/onurboyar/Retinal-Vessel-Segmentation) 
-
-* BTS-DSN: Deeply Supervised Neural Network with Short Connections for Retinal Vessel Segmentation [(paper)](https://arxiv.org/pdf/1803.03963v2.pdf) [(code)](https://github.com/guomugong/BTS-DSN) 
-
-* Study Group Learning: Improving Retinal Vessel Segmentation Trained with Noisy Labels [(paper)](https://arxiv.org/pdf/2103.03451v1.pdf) [(code)](https://github.com/SHI-Labs/SGL-Retinal-Vessel-Segmentation) 
-
-* Modeling and Enhancing Low-quality Retinal Fundus Images [(paper)](https://arxiv.org/pdf/2005.05594v3.pdf) [(code)](https://github.com/HzFu/EyeQ_Enhancement) 
-
-* An Elastic Interaction-Based Loss Function for Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2007.02663v2.pdf) [(code)](https://github.com/charrywhite/elastic_interaction_based_loss) 
-
-* The Little W-Net That Could: State-of-the-Art Retinal Vessel Segmentation with Minimalistic Models [(paper)](https://arxiv.org/pdf/2009.01907v1.pdf) [(code)](https://github.com/agaldran/lwnet) 
-
+* RV-GAN: Segmenting Retinal Vascular Structure in Fundus Photographs using a Novel Multi-scale Generative Adversarial Network (Kamran et al.) [(paper)](https://arxiv.org/pdf/2101.00535v2.pdf) [(code)](https://github.com/SharifAmit/RVGAN) 
+* Learning to Address Intra-segment Misclassification in Retinal Imaging (Zhou et al.) [(paper)](https://arxiv.org/pdf/2104.12138v1.pdf) [(code)](https://github.com/rmaphoh/Learning_AVSegmentation) 
+* The Unreasonable Effectiveness of Encoder-Decoder Networks for Retinal Vessel Segmentation (Browatzki et al.) [(paper)](https://arxiv.org/pdf/2011.12643v1.pdf) [(code)](https://github.com/browatbn2/VLight) 
+* Deep iterative vessel segmentation in OCT angiography (Pissas et al.) [(paper)](https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-11-5-2490&id=429951) [(code)](https://github.com/RViMLab/BOE2020-OCTA-vessel-segmentation) 
+* Channel Attention Residual U-Net for Retinal Vessel Segmentation (Guo et al.) [(paper)](https://arxiv.org/ftp/arxiv/papers/2004/2004.03702.pdf) [(code)](https://github.com/clguo/CAR-UNet) 
+* Dense Residual Network for Retinal Vessel Segmentation (Guo et al.) [(paper)](https://arxiv.org/ftp/arxiv/papers/2004/2004.03697.pdf) [(code)](https://github.com/clguo/DRNet_Keras) 
+* Exploring The Limits Of Data Augmentation For Retinal Vessel Segmentation (Uysal et al.) [(paper)](https://arxiv.org/pdf/2105.09365v2.pdf) [(code)](https://github.com/onurboyar/Retinal-Vessel-Segmentation) 
+* BTS-DSN: Deeply Supervised Neural Network with Short Connections for Retinal Vessel Segmentation (Guo et al.) [(paper)](https://arxiv.org/pdf/1803.03963v2.pdf) [(code)](https://github.com/guomugong/BTS-DSN) 
+* Study Group Learning: Improving Retinal Vessel Segmentation Trained with Noisy Labels (Zhou et al.) [(paper)](https://arxiv.org/pdf/2103.03451v1.pdf) [(code)](https://github.com/SHI-Labs/SGL-Retinal-Vessel-Segmentation) 
+* Modeling and Enhancing Low-quality Retinal Fundus Images (Shen et al.) [(paper)](https://arxiv.org/pdf/2005.05594v3.pdf) [(code)](https://github.com/HzFu/EyeQ_Enhancement) 
+* An Elastic Interaction-Based Loss Function for Medical Image Segmentation (Lan et al.) [(paper)](https://arxiv.org/pdf/2007.02663v2.pdf) [(code)](https://github.com/charrywhite/elastic_interaction_based_loss) 
+* The Little W-Net That Could: State-of-the-Art Retinal Vessel Segmentation with Minimalistic Models (Galdran et al.) [(paper)](https://arxiv.org/pdf/2009.01907v1.pdf) [(code)](https://github.com/agaldran/lwnet) 
 * Retinal vessel segmentation based on Fully Convolutional Neural Networks (Oliveira et al.) [(paper)](https://arxiv.org/pdf/1812.07110v2.pdf) [(code)](https://github.com/americofmoliveira/VesselSegmentation_ESWA) 
-
-* Retinal vessel segmentation based on Fully Convolutional Neural Networks (Liu) [(paper)](https://arxiv.org/pdf/1911.09915v1.pdf) [(code)](https://github.com/zhengyuan-liu/Retinal-Vessel-Segmentation) 
-
-
+* Retinal vessel segmentation based on Fully Convolutional Neural Networks (Liu)[(paper)](https://arxiv.org/pdf/1911.09915v1.pdf) [(code)](https://github.com/zhengyuan-liu/Retinal-Vessel-Segmentation) 
 
