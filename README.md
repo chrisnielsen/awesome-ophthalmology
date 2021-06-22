@@ -187,7 +187,7 @@ A curated list of awesome AI developments for ophthalmology
 * 2012 - Normalized Compression Distance of Multisets with Applications (Cohen et al.) [(paper)](http://arxiv.org/pdf/1212.5711v4.pdf) 
 * 2011 - Fast Inference of Interactions in Assemblies of Stochastic Integrate-and-Fire Neurons from Spike Recordings (Monasson et al.) [(paper)](http://arxiv.org/pdf/1102.5171v1.pdf) 
 * 2009 - Spin glass models for a network of real neurons (Tkacik et al.) [(paper)](http://arxiv.org/pdf/0912.5409v1.pdf) 
-
+<br/><br/>
 
 ---
 <a name="glaucoma"></a>
@@ -226,7 +226,7 @@ A curated list of awesome AI developments for ophthalmology
 * 2015 - Efficient Learning of Continuous-Time Hidden Markov Models for Disease Progression (Liu et al.) [(paper)](http://papers.nips.cc/paper/5792-efficient-learning-of-continuous-time-hidden-markov-models-for-disease-progression.pdf) 
 * 2014 - High-throughput screening for modulators of cellular contractile force (Park et al.) [(paper)](http://arxiv.org/pdf/1411.5695v1.pdf) 
 * 2014 - The fshape framework for the variability analysis of functional shapes (Charlier et al.) [(paper)](http://arxiv.org/pdf/1404.6039v1.pdf) 
-
+<br/><br/>
 
 ---
 <a name="iris-segmentation"></a>
@@ -309,7 +309,7 @@ A curated list of awesome AI developments for ophthalmology
 * 2011 - A New IRIS Normalization Process For Recognition System With Cryptographic Techniques (Nithyanandam et al.) [(paper)](http://arxiv.org/pdf/1111.5135v1.pdf) 
 * 2011 - Exploring New Directions in Iris Recognition (Popescu-Bodorin) [(paper)](http://arxiv.org/pdf/1107.2696v1.pdf) 
 * 2011 - Iris Recognition Based on LBP and Combined LVQ Classifier (Shams et al.) [(paper)](http://arxiv.org/pdf/1111.1562v1.pdf) 
-
+<br/><br/>
 
 ---
 <a name="macular-degeneration"></a>
@@ -332,7 +332,7 @@ A curated list of awesome AI developments for ophthalmology
 * 2015 - Morphometric analyses of the visual pathways in macular degeneration (Hernowo et al.) [(paper)](http://arxiv.org/pdf/1501.05391v1.pdf) 
 * 2015 - Ranking genetic factors related to age-related maculardegeneration by variable selection confidence sets (Zheng et al.) [(paper)](http://arxiv.org/pdf/1512.05419v2.pdf) 
 * 2006 - Human Information Processing with the Personal Memex (Burbey et al.) [(paper)](http://arxiv.org/pdf/cs/0606107v1.pdf) 
-
+<br/><br/>
 
 ---
 <a name="retinal-fundus-classification"></a>
@@ -503,7 +503,7 @@ A curated list of awesome AI developments for ophthalmology
 * 2012 - A Multi-Orientation Analysis Approach to Retinal Vessel Tracking (Bekkers et al.) [(paper)](http://arxiv.org/pdf/1212.3530v5.pdf) 
 * 2012 - A Session Based Blind Watermarking Technique within the NROI of Retinal Fundus Images for Authentication Using DWT, Spread Spectrum and Harris Corner Detection (Dey et al.) [(paper)](http://arxiv.org/pdf/1209.0053v1.pdf) 
 * 2010 - Automatic diagnosis of retinal diseases from color retinal images (Jayanthi et al.) [(paper)](http://arxiv.org/pdf/1002.2408v1.pdf) 
-
+<br/><br/>
 
 ---
 <a name="retinal-fundus-segmentation"></a>
@@ -688,7 +688,7 @@ A curated list of awesome AI developments for ophthalmology
 * 2013 - BW - Eye Ophthalmologic decision support system based on clinical workflow and data mining techniques-image registration algorithm (Martins) [(paper)](http://arxiv.org/pdf/1312.4752v1.pdf) 
 * 2012 - FCM Based Blood Vessel Segmentation Method for Retinal Images (Dey et al.) [(paper)](http://arxiv.org/pdf/1209.1181v1.pdf) 
 * 2005 - Retinal Vessel Segmentation Using the 2-D Morlet Wavelet and Supervised Classification (Soares et al.) [(paper)](http://arxiv.org/pdf/cs/0510001v2.pdf) 
-
+<br/><br/>
 
 ---
 <a name="retinal-oct-classification"></a>
@@ -752,7 +752,7 @@ A curated list of awesome AI developments for ophthalmology
 * 2017 - Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery (Schlegl et al.) [(paper)](http://arxiv.org/pdf/1703.05921v1.pdf) [(code)](https://github.com/xtarx/Unsupervised-Anomaly-Detection-with-Generative-Adversarial-Networks)
 * 2016 - Deep learning is effective for the classification of OCT images of normal versus Age-related Macular Degeneration (Lee et al.) [(paper)](http://arxiv.org/pdf/1612.04891v1.pdf) 
 * 2016 - RetiNet: Automatic AMD identification in OCT volumetric data (Apostolopoulos et al.) [(paper)](http://arxiv.org/pdf/1610.03628v1.pdf) 
-
+<br/><br/>
 
 ---
 <a name="retinal-oct-segmentation"></a>
@@ -855,5 +855,5 @@ A curated list of awesome AI developments for ophthalmology
 * 2013 - Thickness Mapping of Eleven Retinal Layers in Normal Eyes Using Spectral Domain Optical Coherence Tomography (Kafieh et al.) [(paper)](http://arxiv.org/pdf/1312.3199v1.pdf) 
 * 2012 - A 3D Segmentation Method for Retinal Optical Coherence Tomography Volume Data (Sun et al.) [(paper)](http://arxiv.org/pdf/1204.6385v1.pdf) 
 * 2012 - Intra-Retinal Layer Segmentation of 3D Optical Coherence Tomography Using Coarse Grained Diffusion Map (Kafieh et al.) [(paper)](http://arxiv.org/pdf/1210.0310v2.pdf) 
-
+<br/><br/>
 
