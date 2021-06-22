@@ -15,7 +15,14 @@ A curated list of awesome AI developments for ophthalmology
       -  [Retinal Image Registration](#datasets-retinal-image-registration)
       -  [Retinal Vessel Segmentation](#datasets-retinal-vessel-segmentation)
 -  [Papers](#papers)
-      -  [Retinal Vessel Segmentation](#papers-retinal-vessel-segmentation)
+    - [Generative Models](#papers-generative-models)
+    - [Glaucoma](#papers-glaucoma)
+    - [Iris Segmentation](#papers-iris-segmentation)
+    - [Macular Degeneration](#papers-macular-degeneration)
+    - [Retinal Fundus Classification](#papers-retinal-fundus-classification)
+    - [Retinal Fundus Segmentation](#papers-retinal-fundus-segmentation)
+    - [Retinal OCT Classification](#papers-retinal-oct-classification)
+    - [Retinal OCT Segmentation](#papers-retinal-oct-segmentation)
 
 <!-- /MarkdownTOC -->
 
@@ -139,9 +146,8 @@ A curated list of awesome AI developments for ophthalmology
 <a name="papers"></a>
 ## Papers
 
-
 ---
-<a name="generative-models"></a>
+<a name="papers-generative-models"></a>
 ### Generative Models
 ---
 * 2021 - Explaining in Style: Training a GAN to explain a classifier in StyleSpace (Lang et al.) [(paper)](https://arxiv.org/pdf/2104.13369v1.pdf) 
@@ -195,7 +201,7 @@ A curated list of awesome AI developments for ophthalmology
 <br/><br/>
 
 ---
-<a name="glaucoma"></a>
+<a name="papers-glaucoma"></a>
 ### Glaucoma
 ---
 * 2021 - Dynamic region proposal networks for semantic segmentation in automated glaucoma screening (Shah et al.) [(paper)](https://arxiv.org/pdf/2105.11364v1.pdf) 
@@ -250,7 +256,7 @@ A curated list of awesome AI developments for ophthalmology
 <br/><br/>
 
 ---
-<a name="iris-segmentation"></a>
+<a name="papers-iris-segmentation"></a>
 ### Iris Segmentation
 ---
 * 2021 - Semi-Supervised Learning for Eye Image Segmentation (Chaudhary et al.) [(paper)](https://arxiv.org/pdf/2103.09369v1.pdf) 
@@ -332,7 +338,7 @@ A curated list of awesome AI developments for ophthalmology
 <br/><br/>
 
 ---
-<a name="macular-degeneration"></a>
+<a name="papers-macular-degeneration"></a>
 ### Macular Degeneration
 ---
 * 2021 - AI Fairness via Domain Adaptation (Joshi et al.) [(paper)](https://arxiv.org/pdf/2104.01109v1.pdf) 
@@ -369,7 +375,7 @@ A curated list of awesome AI developments for ophthalmology
 <br/><br/>
 
 ---
-<a name="retinal-fundus-classification"></a>
+<a name="papers-retinal-fundus-classification"></a>
 ### Retinal Fundus Classification
 ---
 * 2021 - A Benchmark of Ocular Disease Intelligent Recognition: One Shot for Multi-disease Detection (li et al.) [(paper)](https://arxiv.org/pdf/2102.07978v1.pdf) 
@@ -520,7 +526,7 @@ A curated list of awesome AI developments for ophthalmology
 <br/><br/>
 
 ---
-<a name="retinal-fundus-segmentation"></a>
+<a name="papers-retinal-fundus-segmentation"></a>
 ### Retinal Fundus Segmentation
 ---
 * 2021 - AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images (Zhang et al.) [(paper)](https://arxiv.org/pdf/2106.02800v1.pdf) 
@@ -676,7 +682,7 @@ A curated list of awesome AI developments for ophthalmology
 <br/><br/>
 
 ---
-<a name="retinal-oct-classification"></a>
+<a name="papers-retinal-oct-classification"></a>
 ### Retinal OCT Classification
 ---
 * 2021 - Euler Characteristic Surfaces (Beltramo et al.) [(paper)](http://arxiv.org/pdf/2102.08260v1.pdf) 
@@ -724,7 +730,7 @@ A curated list of awesome AI developments for ophthalmology
 <br/><br/>
 
 ---
-<a name="retinal-oct-segmentation"></a>
+<a name="papers-retinal-oct-segmentation"></a>
 ### Retinal OCT Segmentation
 ---
 * 2021 - 3D Vessel Reconstruction in OCT-Angiography via Depth Map Estimation (Yu et al.) [(paper)](https://arxiv.org/pdf/2102.13588v1.pdf) 
